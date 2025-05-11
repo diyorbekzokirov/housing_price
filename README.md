@@ -1,2 +1,2 @@
 # Housing prices and marriages in South Korea
-We are analyzing the effect of housing on number of marriages in South Korea with the data available public. 
+We are analyzing the effect of housing prices on number of marriages in South Korea with the public data.
