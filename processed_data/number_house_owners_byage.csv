@@ -1,0 +1,514 @@
+Area,Household_Type,Count,Year
+Busan,Total households (ordinary households),1335900,2015-01-01
+Daegu,Non ownership households,395517,2015-01-01
+Daegu,house households,533011,2015-01-01
+Seoul,house households,1875295,2015-01-01
+Sejong,Total households (ordinary households),75219,2015-01-01
+Sejong,house households,40715,2015-01-01
+Gyeonggi-do,Non ownership households,1951437,2015-01-01
+Gyeonggi-do,house households,2433305,2015-01-01
+Gyeonggi-do,Total households (ordinary households),4384742,2015-01-01
+Incheon,Total households (ordinary households),1045417,2015-01-01
+Incheon,house households,611847,2015-01-01
+Incheon,Non ownership households,433570,2015-01-01
+Sejong,Non ownership households,34504,2015-01-01
+Ulsan,Non ownership households,158912,2015-01-01
+Gangwon State,Non ownership households,272086,2015-01-01
+Ulsan,house households,264500,2015-01-01
+Chungcheongbuk-do,Total households (ordinary households),601856,2015-01-01
+Chungcheongbuk-do,house households,348127,2015-01-01
+Chungcheongbuk-do,Non ownership households,253729,2015-01-01
+Jeju,Non ownership households,97005,2015-01-01
+Jeju,house households,123364,2015-01-01
+Jeju,Total households (ordinary households),220369,2015-01-01
+Chungcheongnam-do,Non ownership households,349719,2015-01-01
+Chungcheongnam-do,house households,446466,2015-01-01
+Gwangju,Non ownership households,244627,2015-01-01
+Gwangju,house households,322530,2015-01-01
+Gwangju,Total households (ordinary households),567157,2015-01-01
+Chungcheongnam-do,Total households (ordinary households),796185,2015-01-01
+Seoul,Total households (ordinary households),3784490,2015-01-01
+Ulsan,Total households (ordinary households),423412,2015-01-01
+Gangwon State,house households,334031,2015-01-01
+Daegu,Total households (ordinary households),928528,2015-01-01
+Jeollabuk-do,Total households (ordinary households),717311,2015-01-01
+Busan,house households,786367,2015-01-01
+Busan,Non ownership households,549533,2015-01-01
+Daejeon,Non ownership households,261850,2015-01-01
+Daejeon,house households,320654,2015-01-01
+Daejeon,Total households (ordinary households),582504,2015-01-01
+Jeollanam-do,Total households (ordinary households),720612,2015-01-01
+Jeollanam-do,house households,431275,2015-01-01
+Jeollanam-do,Non ownership households,289337,2015-01-01
+Gangwon State,Total households (ordinary households),606117,2015-01-01
+Gyeongsangbuk-do,house households,635608,2015-01-01
+Gyeongsangbuk-do,Total households (ordinary households),1062724,2015-01-01
+Gyeongsangnam-do,Total households (ordinary households),1258487,2015-01-01
+Gyeongsangnam-do,house households,769925,2015-01-01
+Gyeongsangnam-do,Non ownership households,488562,2015-01-01
+Gyeongsangbuk-do,Non ownership households,427116,2015-01-01
+Seoul,Non ownership households,1909195,2015-01-01
+By residential area(1),Non ownership households,Non ownership households,2015-01-01
+Jeollabuk-do,Non ownership households,295645,2015-01-01
+Jeollabuk-do,house households,421666,2015-01-01
+Whole country,Non ownership households,8412344,2015-01-01
+By residential area(1),house households,house ownership households,2015-01-01
+By residential area(1),Total households (ordinary households),Total households (ordinary households),2015-01-01
+Whole country,Total households (ordinary households),19111030,2015-01-01
+Whole country,house households,10698686,2015-01-01
+Daegu,Non ownership households,398044,2016-01-01
+Daejeon,Total households (ordinary households),590698,2016-01-01
+Daegu,house households,537709,2016-01-01
+Daegu,Total households (ordinary households),935753,2016-01-01
+Chungcheongnam-do,Total households (ordinary households),813730,2016-01-01
+Chungcheongnam-do,house households,456199,2016-01-01
+Chungcheongnam-do,Non ownership households,357531,2016-01-01
+Jeollabuk-do,Non ownership households,309387,2016-01-01
+Jeollanam-do,Non ownership households,305935,2016-01-01
+Jeju,house households,126245,2016-01-01
+Jeju,Non ownership households,103092,2016-01-01
+Gangwon State,Non ownership households,277522,2016-01-01
+Gangwon State,house households,338824,2016-01-01
+Gangwon State,Total households (ordinary households),616346,2016-01-01
+Sejong,Non ownership households,43198,2016-01-01
+Jeollanam-do,house households,421262,2016-01-01
+Jeollabuk-do,Total households (ordinary households),724678,2016-01-01
+Jeollabuk-do,house households,415291,2016-01-01
+Sejong,house households,47215,2016-01-01
+Sejong,Total households (ordinary households),90413,2016-01-01
+Jeollanam-do,Total households (ordinary households),727197,2016-01-01
+Jeju,Total households (ordinary households),229337,2016-01-01
+Gwangju,house households,324437,2016-01-01
+Seoul,house households,1864059,2016-01-01
+Ulsan,Non ownership households,159509,2016-01-01
+Gyeonggi-do,Total households (ordinary households),4484424,2016-01-01
+Gyeonggi-do,house households,2466749,2016-01-01
+Gyeonggi-do,Non ownership households,2017675,2016-01-01
+Seoul,Total households (ordinary households),3784705,2016-01-01
+By residential area(1),Non ownership households,Non ownership households,2016-01-01
+By residential area(1),house households,house ownership households,2016-01-01
+By residential area(1),Total households (ordinary households),Total households (ordinary households),2016-01-01
+Whole country,Total households (ordinary households),19367696,2016-01-01
+Ulsan,house households,266518,2016-01-01
+Whole country,house households,10743492,2016-01-01
+Gyeongsangnam-do,Non ownership households,499887,2016-01-01
+Gyeongsangnam-do,house households,773636,2016-01-01
+Gyeongsangnam-do,Total households (ordinary households),1273523,2016-01-01
+Gyeongsangbuk-do,Total households (ordinary households),1076581,2016-01-01
+Gyeongsangbuk-do,house households,632790,2016-01-01
+Gyeongsangbuk-do,Non ownership households,443791,2016-01-01
+Busan,Non ownership households,560628,2016-01-01
+Busan,house households,783542,2016-01-01
+Busan,Total households (ordinary households),1344170,2016-01-01
+Whole country,Non ownership households,8624204,2016-01-01
+Ulsan,Total households (ordinary households),426027,2016-01-01
+Daejeon,Non ownership households,270173,2016-01-01
+Chungcheongbuk-do,house households,351451,2016-01-01
+Incheon,Non ownership households,445788,2016-01-01
+Incheon,house households,617040,2016-01-01
+Chungcheongbuk-do,Total households (ordinary households),617914,2016-01-01
+Daejeon,house households,320525,2016-01-01
+Gwangju,Non ownership households,244935,2016-01-01
+Seoul,Non ownership households,1920646,2016-01-01
+Incheon,Total households (ordinary households),1062828,2016-01-01
+Chungcheongbuk-do,Non ownership households,266463,2016-01-01
+Gwangju,Total households (ordinary households),569372,2016-01-01
+Gyeongsangbuk-do,Non ownership households,435391,2017-01-01
+Gyeongsangbuk-do,house households,652416,2017-01-01
+Gyeongsangbuk-do,Total households (ordinary households),1087807,2017-01-01
+Gwangju,Total households (ordinary households),575732,2017-01-01
+Gwangju,house households,328263,2017-01-01
+Gwangju,Non ownership households,247469,2017-01-01
+Daejeon,Total households (ordinary households),597736,2017-01-01
+Daejeon,house households,320407,2017-01-01
+Daejeon,Non ownership households,277329,2017-01-01
+Jeollabuk-do,Non ownership households,301349,2017-01-01
+Incheon,Non ownership households,450057,2017-01-01
+Jeollabuk-do,Total households (ordinary households),728871,2017-01-01
+Incheon,house households,630228,2017-01-01
+Incheon,Total households (ordinary households),1080285,2017-01-01
+Jeju,Total households (ordinary households),240215,2017-01-01
+Jeju,house households,132246,2017-01-01
+Jeju,Non ownership households,107969,2017-01-01
+Gyeongsangnam-do,Total households (ordinary households),1292998,2017-01-01
+Gyeongsangnam-do,house households,800655,2017-01-01
+Gyeongsangnam-do,Non ownership households,492343,2017-01-01
+Gyeonggi-do,Non ownership households,2060301,2017-01-01
+Gangwon State,Non ownership households,274774,2017-01-01
+Gyeonggi-do,Total households (ordinary households),4602950,2017-01-01
+Gangwon State,house households,345955,2017-01-01
+Gangwon State,Total households (ordinary households),620729,2017-01-01
+Jeollabuk-do,house households,427522,2017-01-01
+Gyeonggi-do,house households,2542649,2017-01-01
+Jeollanam-do,house households,435332,2017-01-01
+Jeollanam-do,Total households (ordinary households),733757,2017-01-01
+Chungcheongnam-do,Total households (ordinary households),834986,2017-01-01
+Daegu,Non ownership households,397656,2017-01-01
+Daegu,house households,550374,2017-01-01
+Daegu,Total households (ordinary households),948030,2017-01-01
+Sejong,Total households (ordinary households),104325,2017-01-01
+Sejong,house households,55925,2017-01-01
+By residential area(1),Non ownership households,Non ownership households,2017-01-01
+Sejong,Non ownership households,48400,2017-01-01
+Chungcheongnam-do,Non ownership households,357454,2017-01-01
+Chungcheongbuk-do,Non ownership households,266347,2017-01-01
+Chungcheongbuk-do,house households,362726,2017-01-01
+Chungcheongbuk-do,Total households (ordinary households),629073,2017-01-01
+Ulsan,Total households (ordinary households),428720,2017-01-01
+Ulsan,house households,271099,2017-01-01
+Chungcheongnam-do,house households,477532,2017-01-01
+Ulsan,Non ownership households,157621,2017-01-01
+By residential area(1),house households,house ownership households,2017-01-01
+Whole country,Total households (ordinary households),19673875,2017-01-01
+Whole country,house households,11000007,2017-01-01
+Whole country,Non ownership households,8673868,2017-01-01
+Seoul,Total households (ordinary households),3813260,2017-01-01
+Seoul,house households,1875189,2017-01-01
+Seoul,Non ownership households,1938071,2017-01-01
+Jeollanam-do,Non ownership households,298425,2017-01-01
+By residential area(1),Total households (ordinary households),Total households (ordinary households),2017-01-01
+Busan,Non ownership households,562912,2017-01-01
+Busan,house households,791489,2017-01-01
+Busan,Total households (ordinary households),1354401,2017-01-01
+Incheon,Non ownership households,452004,2018-01-01
+Incheon,house households,642745,2018-01-01
+Incheon,Total households (ordinary households),1094749,2018-01-01
+Chungcheongbuk-do,Non ownership households,269754,2018-01-01
+Chungcheongbuk-do,house households,371224,2018-01-01
+Chungcheongbuk-do,Total households (ordinary households),640978,2018-01-01
+Ulsan,Total households (ordinary households),431391,2018-01-01
+Gyeongsangbuk-do,Non ownership households,428712,2018-01-01
+Ulsan,Non ownership households,156602,2018-01-01
+Gyeongsangbuk-do,house households,665822,2018-01-01
+Gyeongsangbuk-do,Total households (ordinary households),1094534,2018-01-01
+Busan,Total households (ordinary households),1363608,2018-01-01
+Busan,house households,796271,2018-01-01
+Busan,Non ownership households,567337,2018-01-01
+Whole country,Non ownership households,8745282,2018-01-01
+Whole country,house households,11233906,2018-01-01
+Whole country,Total households (ordinary households),19979188,2018-01-01
+Gyeongsangnam-do,Total households (ordinary households),1306394,2018-01-01
+Gyeongsangnam-do,house households,816442,2018-01-01
+Gyeongsangnam-do,Non ownership households,489952,2018-01-01
+Gwangju,Non ownership households,244706,2018-01-01
+Gyeonggi-do,house households,2642084,2018-01-01
+Gyeonggi-do,Total households (ordinary households),4751497,2018-01-01
+By residential area(1),Total households (ordinary households),Total households (ordinary households),2018-01-01
+By residential area(1),house households,house ownership households,2018-01-01
+By residential area(1),Non ownership households,Non ownership households,2018-01-01
+Ulsan,house households,274789,2018-01-01
+Gyeonggi-do,Non ownership households,2109413,2018-01-01
+Gwangju,Total households (ordinary households),578559,2018-01-01
+Sejong,Non ownership households,54485,2018-01-01
+Daegu,Total households (ordinary households),957516,2018-01-01
+Sejong,Total households (ordinary households),119029,2018-01-01
+Sejong,house households,64544,2018-01-01
+Jeollanam-do,Non ownership households,295766,2018-01-01
+Gwangju,house households,333853,2018-01-01
+Gangwon State,Total households (ordinary households),628484,2018-01-01
+Gangwon State,house households,353035,2018-01-01
+Gangwon State,Non ownership households,275449,2018-01-01
+Jeollanam-do,house households,441640,2018-01-01
+Jeollanam-do,Total households (ordinary households),737406,2018-01-01
+Jeollabuk-do,Total households (ordinary households),732980,2018-01-01
+Daegu,house households,557967,2018-01-01
+Jeju,house households,137174,2018-01-01
+Jeju,Total households (ordinary households),248998,2018-01-01
+Jeju,Non ownership households,111824,2018-01-01
+Jeollabuk-do,Non ownership households,298879,2018-01-01
+Daejeon,Total households (ordinary households),602175,2018-01-01
+Daejeon,house households,325228,2018-01-01
+Daejeon,Non ownership households,276947,2018-01-01
+Seoul,Non ownership households,1955343,2018-01-01
+Jeollabuk-do,house households,434101,2018-01-01
+Seoul,Total households (ordinary households),3839766,2018-01-01
+Seoul,house households,1884423,2018-01-01
+Chungcheongnam-do,house households,492564,2018-01-01
+Chungcheongnam-do,Non ownership households,358560,2018-01-01
+Chungcheongnam-do,Total households (ordinary households),851124,2018-01-01
+Daegu,Non ownership households,399549,2018-01-01
+Whole country,Total households (ordinary households),20343188,2019-01-01
+Jeollabuk-do,house households,439491,2019-01-01
+Jeollabuk-do,Non ownership households,298816,2019-01-01
+Jeollanam-do,Total households (ordinary households),741026,2019-01-01
+Jeollanam-do,house households,449851,2019-01-01
+Whole country,house households,11456266,2019-01-01
+Whole country,Non ownership households,8886922,2019-01-01
+Jeollabuk-do,Total households (ordinary households),738307,2019-01-01
+Seoul,Non ownership households,2001514,2019-01-01
+Gyeongsangnam-do,Total households (ordinary households),1321213,2019-01-01
+Incheon,Non ownership households,470367,2019-01-01
+Incheon,house households,650209,2019-01-01
+Incheon,Total households (ordinary households),1120576,2019-01-01
+Seoul,house households,1894875,2019-01-01
+Seoul,Total households (ordinary households),3896389,2019-01-01
+Sejong,Non ownership households,60264,2019-01-01
+Sejong,house households,69400,2019-01-01
+Jeollanam-do,Non ownership households,291175,2019-01-01
+Sejong,Total households (ordinary households),129664,2019-01-01
+Ulsan,Total households (ordinary households),437094,2019-01-01
+Ulsan,house households,279906,2019-01-01
+Ulsan,Non ownership households,157188,2019-01-01
+Jeju,house households,140671,2019-01-01
+Jeju,Non ownership households,113045,2019-01-01
+Gyeongsangnam-do,Non ownership households,489409,2019-01-01
+Gyeongsangnam-do,house households,831804,2019-01-01
+Jeju,Total households (ordinary households),253716,2019-01-01
+Gyeongsangbuk-do,Non ownership households,427642,2019-01-01
+Gyeongsangbuk-do,house households,675292,2019-01-01
+Gyeongsangbuk-do,Total households (ordinary households),1102934,2019-01-01
+Gwangju,Total households (ordinary households),587159,2019-01-01
+Gangwon State,Total households (ordinary households),633942,2019-01-01
+Gangwon State,house households,363552,2019-01-01
+Gangwon State,Non ownership households,270390,2019-01-01
+By residential area(1),Total households (ordinary households),Total households (ordinary households),2019-01-01
+By residential area(1),house households,house ownership households,2019-01-01
+By residential area(1),Non ownership households,Non ownership households,2019-01-01
+Chungcheongnam-do,Non ownership households,359528,2019-01-01
+Chungcheongnam-do,house households,504574,2019-01-01
+Chungcheongnam-do,Total households (ordinary households),864102,2019-01-01
+Chungcheongbuk-do,Non ownership households,271837,2019-01-01
+Chungcheongbuk-do,house households,382876,2019-01-01
+Chungcheongbuk-do,Total households (ordinary households),654713,2019-01-01
+Gwangju,Non ownership households,248179,2019-01-01
+Gwangju,house households,338980,2019-01-01
+Gyeonggi-do,house households,2745423,2019-01-01
+Gyeonggi-do,Non ownership households,2162237,2019-01-01
+Gyeonggi-do,Total households (ordinary households),4907660,2019-01-01
+Daegu,Total households (ordinary households),968620,2019-01-01
+Daejeon,Non ownership households,282659,2019-01-01
+Busan,Total households (ordinary households),1377030,2019-01-01
+Daejeon,Total households (ordinary households),609043,2019-01-01
+Daejeon,house households,326384,2019-01-01
+Daegu,house households,563282,2019-01-01
+Daegu,Non ownership households,405338,2019-01-01
+Busan,house households,799696,2019-01-01
+Busan,Non ownership households,577334,2019-01-01
+Jeollanam-do,Total households (ordinary households),761518,2020-01-01
+Sejong,Total households (ordinary households),139106,2020-01-01
+Sejong,house households,73011,2020-01-01
+Chungcheongbuk-do,Non ownership households,284440,2020-01-01
+Daejeon,Total households (ordinary households),631208,2020-01-01
+Chungcheongbuk-do,house households,394482,2020-01-01
+Chungcheongbuk-do,Total households (ordinary households),678922,2020-01-01
+Jeollabuk-do,Total households (ordinary households),755575,2020-01-01
+Jeollabuk-do,house households,448731,2020-01-01
+Jeollabuk-do,Non ownership households,306844,2020-01-01
+Sejong,Non ownership households,66095,2020-01-01
+Daejeon,house households,330682,2020-01-01
+Gangwon State,Total households (ordinary households),661039,2020-01-01
+Gangwon State,house households,378696,2020-01-01
+Daejeon,Non ownership households,300526,2020-01-01
+Daegu,Non ownership households,416192,2020-01-01
+Daegu,house households,569624,2020-01-01
+Jeju,Total households (ordinary households),263068,2020-01-01
+Jeju,house households,144313,2020-01-01
+Jeju,Non ownership households,118755,2020-01-01
+Daegu,Total households (ordinary households),985816,2020-01-01
+Chungcheongnam-do,Total households (ordinary households),892222,2020-01-01
+Chungcheongnam-do,house households,517605,2020-01-01
+Chungcheongnam-do,Non ownership households,374617,2020-01-01
+Jeollanam-do,Non ownership households,297055,2020-01-01
+Jeollanam-do,house households,464463,2020-01-01
+Gangwon State,Non ownership households,282343,2020-01-01
+Incheon,Non ownership households,487905,2020-01-01
+Incheon,house households,659295,2020-01-01
+Incheon,Total households (ordinary households),1147200,2020-01-01
+Ulsan,Total households (ordinary households),444087,2020-01-01
+Ulsan,house households,286134,2020-01-01
+Ulsan,Non ownership households,157953,2020-01-01
+Gyeongsangnam-do,Non ownership households,499881,2020-01-01
+Gyeongsangnam-do,house households,850274,2020-01-01
+Gyeongsangnam-do,Total households (ordinary households),1350155,2020-01-01
+Gyeonggi-do,house households,2842747,2020-01-01
+Gyeonggi-do,Non ownership households,2255684,2020-01-01
+Busan,Non ownership households,595657,2020-01-01
+Busan,house households,809380,2020-01-01
+Busan,Total households (ordinary households),1405037,2020-01-01
+Whole country,Total households (ordinary households),20926710,2020-01-01
+Whole country,house households,11730171,2020-01-01
+Whole country,Non ownership households,9196539,2020-01-01
+Gyeongsangbuk-do,Non ownership households,442830,2020-01-01
+Gyeongsangbuk-do,house households,688989,2020-01-01
+Gyeongsangbuk-do,Total households (ordinary households),1131819,2020-01-01
+By residential area(1),Total households (ordinary households),Total households (ordinary households),2020-01-01
+By residential area(1),house households,house ownership households,2020-01-01
+Gyeonggi-do,Total households (ordinary households),5098431,2020-01-01
+Seoul,house households,1928074,2020-01-01
+Seoul,Non ownership households,2054216,2020-01-01
+Seoul,Total households (ordinary households),3982290,2020-01-01
+By residential area(1),Non ownership households,Non ownership households,2020-01-01
+Gwangju,house households,343671,2020-01-01
+Gwangju,Total households (ordinary households),599217,2020-01-01
+Gwangju,Non ownership households,255546,2020-01-01
+Whole country,Non ownership households,9385592,2021-01-01
+Whole country,house households,12062871,2021-01-01
+Whole country,Total households (ordinary households),21448463,2021-01-01
+Ulsan,Non ownership households,161658,2021-01-01
+Chungcheongbuk-do,Total households (ordinary households),695611,2021-01-01
+Chungcheongbuk-do,house households,405681,2021-01-01
+Chungcheongbuk-do,Non ownership households,289930,2021-01-01
+Busan,Total households (ordinary households),1431365,2021-01-01
+Busan,house households,822769,2021-01-01
+Busan,Non ownership households,608596,2021-01-01
+By residential area(1),Total households (ordinary households),Total households (ordinary households),2021-01-01
+Ulsan,house households,289774,2021-01-01
+Jeollanam-do,Total households (ordinary households),777358,2021-01-01
+By residential area(1),house households,house ownership households,2021-01-01
+By residential area(1),Non ownership households,Non ownership households,2021-01-01
+Seoul,Non ownership households,2072255,2021-01-01
+Seoul,house households,1974544,2021-01-01
+Seoul,Total households (ordinary households),4046799,2021-01-01
+Sejong,Total households (ordinary households),145295,2021-01-01
+Ulsan,Total households (ordinary households),451432,2021-01-01
+Daegu,Total households (ordinary households),1000931,2021-01-01
+Sejong,Non ownership households,67757,2021-01-01
+Chungcheongnam-do,Total households (ordinary households),915634,2021-01-01
+Chungcheongnam-do,house households,529443,2021-01-01
+Chungcheongnam-do,Non ownership households,386191,2021-01-01
+Jeollanam-do,Non ownership households,300235,2021-01-01
+Jeollanam-do,house households,477123,2021-01-01
+Sejong,house households,77538,2021-01-01
+Daegu,house households,579620,2021-01-01
+Daegu,Non ownership households,421311,2021-01-01
+Gyeongsangnam-do,Non ownership households,510509,2021-01-01
+Jeju,Non ownership households,121746,2021-01-01
+Gyeongsangnam-do,house households,868473,2021-01-01
+Gyeongsangnam-do,Total households (ordinary households),1378982,2021-01-01
+Gyeonggi-do,Total households (ordinary households),5290662,2021-01-01
+Gyeonggi-do,house households,2960542,2021-01-01
+Gyeonggi-do,Non ownership households,2330120,2021-01-01
+Jeju,house households,149416,2021-01-01
+Jeju,Total households (ordinary households),271162,2021-01-01
+Gangwon State,Total households (ordinary households),674728,2021-01-01
+Gangwon State,house households,391373,2021-01-01
+Gangwon State,Non ownership households,283355,2021-01-01
+Gwangju,Non ownership households,260714,2021-01-01
+Daejeon,house households,338038,2021-01-01
+Daejeon,Total households (ordinary households),640085,2021-01-01
+Daejeon,Non ownership households,302047,2021-01-01
+Jeollabuk-do,house households,458116,2021-01-01
+Jeollabuk-do,Non ownership households,314355,2021-01-01
+Gyeongsangbuk-do,Total households (ordinary households),1156645,2021-01-01
+Jeollabuk-do,Total households (ordinary households),772471,2021-01-01
+Gyeongsangbuk-do,Non ownership households,448805,2021-01-01
+Incheon,Non ownership households,506008,2021-01-01
+Gyeongsangbuk-do,house households,707840,2021-01-01
+Incheon,Total households (ordinary households),1183610,2021-01-01
+Gwangju,Total households (ordinary households),615693,2021-01-01
+Gwangju,house households,354979,2021-01-01
+Incheon,house households,677602,2021-01-01
+Incheon,Total households (ordinary households),1212731,2022-01-01
+Seoul,house households,1991345,2022-01-01
+Incheon,Non ownership households,522022,2022-01-01
+Chungcheongbuk-do,Total households (ordinary households),704864,2022-01-01
+Gwangju,Total households (ordinary households),623252,2022-01-01
+Gwangju,house households,360687,2022-01-01
+Gwangju,Non ownership households,262565,2022-01-01
+Seoul,Total households (ordinary households),4098818,2022-01-01
+Seoul,Non ownership households,2107473,2022-01-01
+Jeollabuk-do,Total households (ordinary households),777680,2022-01-01
+By residential area(1),house households,house ownership households,2022-01-01
+Whole country,Non ownership households,9541100,2022-01-01
+Whole country,house households,12232407,2022-01-01
+Whole country,Total households (ordinary households),21773507,2022-01-01
+Gyeongsangbuk-do,Total households (ordinary households),1166306,2022-01-01
+Gyeongsangbuk-do,house households,711656,2022-01-01
+Gyeongsangbuk-do,Non ownership households,454650,2022-01-01
+Gyeonggi-do,Non ownership households,2383035,2022-01-01
+Gyeonggi-do,house households,3023928,2022-01-01
+Gyeonggi-do,Total households (ordinary households),5406963,2022-01-01
+By residential area(1),Non ownership households,Non ownership households,2022-01-01
+Busan,Total households (ordinary households),1447825,2022-01-01
+Busan,Non ownership households,616134,2022-01-01
+Ulsan,Non ownership households,162388,2022-01-01
+Ulsan,house households,291610,2022-01-01
+Ulsan,Total households (ordinary households),453998,2022-01-01
+Chungcheongbuk-do,house households,411548,2022-01-01
+Gyeongsangnam-do,Total households (ordinary households),1392608,2022-01-01
+Gyeongsangnam-do,house households,875525,2022-01-01
+Gyeongsangnam-do,Non ownership households,517083,2022-01-01
+By residential area(1),Total households (ordinary households),Total households (ordinary households),2022-01-01
+Busan,house households,831691,2022-01-01
+Chungcheongbuk-do,Non ownership households,293316,2022-01-01
+Incheon,house households,690709,2022-01-01
+Gangwon State,house households,400237,2022-01-01
+Daejeon,Total households (ordinary households),646474,2022-01-01
+Daejeon,house households,342702,2022-01-01
+Daejeon,Non ownership households,303772,2022-01-01
+Chungcheongnam-do,Non ownership households,395904,2022-01-01
+Chungcheongnam-do,house households,535466,2022-01-01
+Chungcheongnam-do,Total households (ordinary households),931370,2022-01-01
+Jeju,Non ownership households,122766,2022-01-01
+Jeju,house households,153459,2022-01-01
+Jeju,Total households (ordinary households),276225,2022-01-01
+Gangwon State,Total households (ordinary households),684895,2022-01-01
+Daegu,house households,586337,2022-01-01
+Gangwon State,Non ownership households,284658,2022-01-01
+Daegu,Total households (ordinary households),1010834,2022-01-01
+Jeollanam-do,Total households (ordinary households),784645,2022-01-01
+Sejong,Total households (ordinary households),154019,2022-01-01
+Sejong,house households,87761,2022-01-01
+Sejong,Non ownership households,66258,2022-01-01
+Jeollabuk-do,house households,456701,2022-01-01
+Jeollanam-do,Non ownership households,303600,2022-01-01
+Jeollanam-do,house households,481045,2022-01-01
+Daegu,Non ownership households,424497,2022-01-01
+Jeollabuk-do,Non ownership households,320979,2022-01-01
+Daejeon,Total households (ordinary households),654809,2023-01-01
+Busan,Total households (ordinary households),1462404,2023-01-01
+Ulsan,Non ownership households,165599,2023-01-01
+Busan,Non ownership households,616713,2023-01-01
+Ulsan,Total households (ordinary households),458129,2023-01-01
+Ulsan,house households,292530,2023-01-01
+Busan,house households,845691,2023-01-01
+Chungcheongbuk-do,house households,421750,2023-01-01
+Gyeongsangbuk-do,Total households (ordinary households),1166594,2023-01-01
+Gyeonggi-do,Total households (ordinary households),5500024,2023-01-01
+Gyeonggi-do,house households,3117074,2023-01-01
+Gyeonggi-do,Non ownership households,2382950,2023-01-01
+Gyeongsangbuk-do,Non ownership households,453684,2023-01-01
+Gyeongsangbuk-do,house households,712910,2023-01-01
+Daejeon,house households,348061,2023-01-01
+Daegu,Total households (ordinary households),1033238,2023-01-01
+Daegu,house households,603118,2023-01-01
+Daegu,Non ownership households,430120,2023-01-01
+Jeollabuk-do,Non ownership households,321947,2023-01-01
+Jeollabuk-do,house households,464828,2023-01-01
+Jeollabuk-do,Total households (ordinary households),786775,2023-01-01
+Whole country,Total households (ordinary households),22073158,2023-01-01
+Whole country,house households,12454684,2023-01-01
+Daejeon,Non ownership households,306748,2023-01-01
+Jeollanam-do,house households,489842,2023-01-01
+Jeju,house households,156017,2023-01-01
+Chungcheongbuk-do,Total households (ordinary households),720231,2023-01-01
+Sejong,Non ownership households,65391,2023-01-01
+Sejong,house households,91053,2023-01-01
+Sejong,Total households (ordinary households),156444,2023-01-01
+Incheon,Non ownership households,534605,2023-01-01
+Incheon,house households,707563,2023-01-01
+Incheon,Total households (ordinary households),1242168,2023-01-01
+Gangwon State,Non ownership households,291185,2023-01-01
+Gangwon State,house households,407225,2023-01-01
+Gangwon State,Total households (ordinary households),698410,2023-01-01
+Seoul,Total households (ordinary households),4141659,2023-01-01
+Seoul,house households,1998410,2023-01-01
+Seoul,Non ownership households,2143249,2023-01-01
+By residential area(1),Non ownership households,Non ownership households,2023-01-01
+By residential area(1),house households,house ownership households,2023-01-01
+By residential area(1),Total households (ordinary households),Total households (ordinary households),2023-01-01
+Chungcheongnam-do,Total households (ordinary households),948631,2023-01-01
+Chungcheongnam-do,house households,549179,2023-01-01
+Chungcheongnam-do,Non ownership households,399452,2023-01-01
+Gwangju,Total households (ordinary households),627602,2023-01-01
+Gwangju,house households,365849,2023-01-01
+Gwangju,Non ownership households,261753,2023-01-01
+Gyeongsangnam-do,Non ownership households,520892,2023-01-01
+Gyeongsangnam-do,house households,883584,2023-01-01
+Gyeongsangnam-do,Total households (ordinary households),1404476,2023-01-01
+Jeollanam-do,Non ownership households,303407,2023-01-01
+Chungcheongbuk-do,Non ownership households,298481,2023-01-01
+Jeollanam-do,Total households (ordinary households),793249,2023-01-01
+Jeju,Total households (ordinary households),278315,2023-01-01
+Jeju,Non ownership households,122298,2023-01-01
+Whole country,Non ownership households,9618474,2023-01-01

@@ -1,0 +1,865 @@
+Area,Year,Type,Count
+Busan,2012,Privately owned apartment,582898
+Busan,2012,privately owned house,942667
+Busan,2012,total number of apartments,659821
+Busan,2012,total number of houses,1078853
+Busan,2013,Privately owned apartment,601748
+Busan,2013,privately owned house,1000941
+Busan,2013,total number of apartments,683785
+Busan,2013,total number of houses,1111427
+Busan,2014,Privately owned apartment,624341
+Busan,2014,privately owned house,1017300
+Busan,2014,total number of apartments,710774
+Busan,2014,total number of houses,1133236
+Busan,2015,Privately owned apartment,648816
+Busan,2015,privately owned house,1054112
+Busan,2015,total number of apartments,738068
+Busan,2015,total number of houses,1164352
+Busan,2016,Privately owned apartment,667623
+Busan,2016,privately owned house,1063107
+Busan,2016,total number of apartments,750122
+Busan,2016,total number of houses,1174034
+Busan,2017,Privately owned apartment,686371
+Busan,2017,privately owned house,1090217
+Busan,2017,total number of apartments,776079
+Busan,2017,total number of houses,1200422
+Busan,2018,Privately owned apartment,703077
+Busan,2018,privately owned house,1102122
+Busan,2018,total number of apartments,798281
+Busan,2018,total number of houses,1220782
+Busan,2019,Privately owned apartment,719139
+Busan,2019,privately owned house,1112532
+Busan,2019,total number of apartments,831294
+Busan,2019,total number of houses,1249757
+Busan,2020,Privately owned apartment,740198
+Busan,2020,privately owned house,1129142
+Busan,2020,total number of apartments,860042
+Busan,2020,total number of houses,1275859
+Busan,2021,Privately owned apartment,755920
+Busan,2021,privately owned house,1138534
+Busan,2021,total number of apartments,872073
+Busan,2021,total number of houses,1282831
+Busan,2022,Privately owned apartment,769048
+Busan,2022,privately owned house,1149256
+Busan,2022,total number of apartments,898404
+Busan,2022,total number of houses,1308294
+Busan,2023,Privately owned apartment,794304
+Busan,2023,privately owned house,1175517
+Busan,2023,total number of apartments,920155
+Busan,2023,total number of houses,1329355
+Chungcheongbuk-do,2012,Privately owned apartment,223140
+Chungcheongbuk-do,2012,privately owned house,433200
+Chungcheongbuk-do,2012,total number of apartments,279576
+Chungcheongbuk-do,2012,total number of houses,520489
+Chungcheongbuk-do,2013,Privately owned apartment,230551
+Chungcheongbuk-do,2013,privately owned house,449694
+Chungcheongbuk-do,2013,total number of apartments,285720
+Chungcheongbuk-do,2013,total number of houses,530845
+Chungcheongbuk-do,2014,Privately owned apartment,236237
+Chungcheongbuk-do,2014,privately owned house,450768
+Chungcheongbuk-do,2014,total number of apartments,295538
+Chungcheongbuk-do,2014,total number of houses,543324
+Chungcheongbuk-do,2015,Privately owned apartment,245670
+Chungcheongbuk-do,2015,privately owned house,455475
+Chungcheongbuk-do,2015,total number of apartments,308352
+Chungcheongbuk-do,2015,total number of houses,556951
+Chungcheongbuk-do,2016,Privately owned apartment,252657
+Chungcheongbuk-do,2016,privately owned house,475450
+Chungcheongbuk-do,2016,total number of apartments,316851
+Chungcheongbuk-do,2016,total number of houses,568567
+Chungcheongbuk-do,2017,Privately owned apartment,262239
+Chungcheongbuk-do,2017,privately owned house,498845
+Chungcheongbuk-do,2017,total number of apartments,327319
+Chungcheongbuk-do,2017,total number of houses,581855
+Chungcheongbuk-do,2018,Privately owned apartment,276096
+Chungcheongbuk-do,2018,privately owned house,510750
+Chungcheongbuk-do,2018,total number of apartments,351577
+Chungcheongbuk-do,2018,total number of houses,607686
+Chungcheongbuk-do,2019,Privately owned apartment,290444
+Chungcheongbuk-do,2019,privately owned house,528314
+Chungcheongbuk-do,2019,total number of apartments,369668
+Chungcheongbuk-do,2019,total number of houses,625957
+Chungcheongbuk-do,2020,Privately owned apartment,300714
+Chungcheongbuk-do,2020,privately owned house,540586
+Chungcheongbuk-do,2020,total number of apartments,383130
+Chungcheongbuk-do,2020,total number of houses,640256
+Chungcheongbuk-do,2021,Privately owned apartment,308926
+Chungcheongbuk-do,2021,privately owned house,550063
+Chungcheongbuk-do,2021,total number of apartments,392988
+Chungcheongbuk-do,2021,total number of houses,650224
+Chungcheongbuk-do,2022,Privately owned apartment,315645
+Chungcheongbuk-do,2022,privately owned house,556789
+Chungcheongbuk-do,2022,total number of apartments,400844
+Chungcheongbuk-do,2022,total number of houses,659293
+Chungcheongbuk-do,2023,Privately owned apartment,323962
+Chungcheongbuk-do,2023,privately owned house,566674
+Chungcheongbuk-do,2023,total number of apartments,414551
+Chungcheongbuk-do,2023,total number of houses,673539
+Chungcheongnam-do,2012,Privately owned apartment,259458
+Chungcheongnam-do,2012,privately owned house,548949
+Chungcheongnam-do,2012,total number of apartments,345518
+Chungcheongnam-do,2012,total number of houses,708475
+Chungcheongnam-do,2013,Privately owned apartment,271176
+Chungcheongnam-do,2013,privately owned house,577655
+Chungcheongnam-do,2013,total number of apartments,354866
+Chungcheongnam-do,2013,total number of houses,721768
+Chungcheongnam-do,2014,Privately owned apartment,288260
+Chungcheongnam-do,2014,privately owned house,598997
+Chungcheongnam-do,2014,total number of apartments,366861
+Chungcheongnam-do,2014,total number of houses,741405
+Chungcheongnam-do,2015,Privately owned apartment,302643
+Chungcheongnam-do,2015,privately owned house,618572
+Chungcheongnam-do,2015,total number of apartments,382323
+Chungcheongnam-do,2015,total number of houses,754372
+Chungcheongnam-do,2016,Privately owned apartment,324356
+Chungcheongnam-do,2016,privately owned house,648461
+Chungcheongnam-do,2016,total number of apartments,402808
+Chungcheongnam-do,2016,total number of houses,776746
+Chungcheongnam-do,2017,Privately owned apartment,344151
+Chungcheongnam-do,2017,privately owned house,686088
+Chungcheongnam-do,2017,total number of apartments,426251
+Chungcheongnam-do,2017,total number of houses,805555
+Chungcheongnam-do,2018,Privately owned apartment,365534
+Chungcheongnam-do,2018,privately owned house,710035
+Chungcheongnam-do,2018,total number of apartments,453830
+Chungcheongnam-do,2018,total number of houses,835752
+Chungcheongnam-do,2019,Privately owned apartment,382350
+Chungcheongnam-do,2019,privately owned house,727628
+Chungcheongnam-do,2019,total number of apartments,467790
+Chungcheongnam-do,2019,total number of houses,850525
+Chungcheongnam-do,2020,Privately owned apartment,390998
+Chungcheongnam-do,2020,privately owned house,737853
+Chungcheongnam-do,2020,total number of apartments,481332
+Chungcheongnam-do,2020,total number of houses,865008
+Chungcheongnam-do,2021,Privately owned apartment,398486
+Chungcheongnam-do,2021,privately owned house,747131
+Chungcheongnam-do,2021,total number of apartments,490513
+Chungcheongnam-do,2021,total number of houses,874666
+Chungcheongnam-do,2022,Privately owned apartment,407755
+Chungcheongnam-do,2022,privately owned house,750427
+Chungcheongnam-do,2022,total number of apartments,510531
+Chungcheongnam-do,2022,total number of houses,894935
+Chungcheongnam-do,2023,Privately owned apartment,421714
+Chungcheongnam-do,2023,privately owned house,768538
+Chungcheongnam-do,2023,total number of apartments,540689
+Chungcheongnam-do,2023,total number of houses,925749
+Daegu,2012,Privately owned apartment,409732
+Daegu,2012,privately owned house,627382
+Daegu,2012,total number of apartments,470836
+Daegu,2012,total number of houses,703026
+Daegu,2013,Privately owned apartment,420536
+Daegu,2013,privately owned house,642457
+Daegu,2013,total number of apartments,483089
+Daegu,2013,total number of houses,715499
+Daegu,2014,Privately owned apartment,436498
+Daegu,2014,privately owned house,650004
+Daegu,2014,total number of apartments,491094
+Daegu,2014,total number of houses,716961
+Daegu,2015,Privately owned apartment,445307
+Daegu,2015,privately owned house,667536
+Daegu,2015,total number of apartments,509068
+Daegu,2015,total number of houses,738100
+Daegu,2016,Privately owned apartment,463380
+Daegu,2016,privately owned house,685240
+Daegu,2016,total number of apartments,532090
+Daegu,2016,total number of houses,761054
+Daegu,2017,Privately owned apartment,483971
+Daegu,2017,privately owned house,704573
+Daegu,2017,total number of apartments,555900
+Daegu,2017,total number of houses,783895
+Daegu,2018,Privately owned apartment,496307
+Daegu,2018,privately owned house,712585
+Daegu,2018,total number of apartments,567543
+Daegu,2018,total number of houses,792998
+Daegu,2019,Privately owned apartment,504766
+Daegu,2019,privately owned house,715803
+Daegu,2019,total number of apartments,579777
+Daegu,2019,total number of houses,800340
+Daegu,2020,Privately owned apartment,512520
+Daegu,2020,privately owned house,717726
+Daegu,2020,total number of apartments,595392
+Daegu,2020,total number of houses,809802
+Daegu,2021,Privately owned apartment,520922
+Daegu,2021,privately owned house,722522
+Daegu,2021,total number of apartments,605787
+Daegu,2021,total number of houses,815588
+Daegu,2022,Privately owned apartment,533882
+Daegu,2022,privately owned house,732787
+Daegu,2022,total number of apartments,627191
+Daegu,2022,total number of houses,834637
+Daegu,2023,Privately owned apartment,549924
+Daegu,2023,privately owned house,758798
+Daegu,2023,total number of apartments,658745
+Daegu,2023,total number of houses,876286
+Daejeon,2012,Privately owned apartment,267416
+Daejeon,2012,privately owned house,384405
+Daejeon,2012,total number of apartments,313705
+Daejeon,2012,total number of houses,443787
+Daejeon,2013,Privately owned apartment,271653
+Daejeon,2013,privately owned house,391646
+Daejeon,2013,total number of apartments,319326
+Daejeon,2013,total number of houses,449622
+Daejeon,2014,Privately owned apartment,282649
+Daejeon,2014,privately owned house,402794
+Daejeon,2014,total number of apartments,330512
+Daejeon,2014,total number of houses,459481
+Daejeon,2015,Privately owned apartment,292894
+Daejeon,2015,privately owned house,417505
+Daejeon,2015,total number of apartments,338250
+Daejeon,2015,total number of houses,468885
+Daejeon,2016,Privately owned apartment,297461
+Daejeon,2016,privately owned house,422487
+Daejeon,2016,total number of apartments,343223
+Daejeon,2016,total number of houses,474193
+Daejeon,2017,Privately owned apartment,296686
+Daejeon,2017,privately owned house,421521
+Daejeon,2017,total number of apartments,348033
+Daejeon,2017,total number of houses,479161
+Daejeon,2018,Privately owned apartment,306455
+Daejeon,2018,privately owned house,430993
+Daejeon,2018,total number of apartments,355517
+Daejeon,2018,total number of houses,486764
+Daejeon,2019,Privately owned apartment,310220
+Daejeon,2019,privately owned house,433024
+Daejeon,2019,total number of apartments,362190
+Daejeon,2019,total number of houses,492797
+Daejeon,2020,Privately owned apartment,313798
+Daejeon,2020,privately owned house,434963
+Daejeon,2020,total number of apartments,367235
+Daejeon,2020,total number of houses,496875
+Daejeon,2021,Privately owned apartment,319019
+Daejeon,2021,privately owned house,438053
+Daejeon,2021,total number of apartments,373590
+Daejeon,2021,total number of houses,501218
+Daejeon,2022,Privately owned apartment,326262
+Daejeon,2022,privately owned house,444104
+Daejeon,2022,total number of apartments,383514
+Daejeon,2022,total number of houses,510178
+Daejeon,2023,Privately owned apartment,332599
+Daejeon,2023,privately owned house,449774
+Daejeon,2023,total number of apartments,388467
+Daejeon,2023,total number of houses,514123
+Gangwon State,2012,Privately owned apartment,201804
+Gangwon State,2012,privately owned house,424380
+Gangwon State,2012,total number of apartments,275592
+Gangwon State,2012,total number of houses,547769
+Gangwon State,2013,Privately owned apartment,207252
+Gangwon State,2013,privately owned house,446576
+Gangwon State,2013,total number of apartments,278358
+Gangwon State,2013,total number of houses,552576
+Gangwon State,2014,Privately owned apartment,215153
+Gangwon State,2014,privately owned house,447941
+Gangwon State,2014,total number of apartments,287031
+Gangwon State,2014,total number of houses,560843
+Gangwon State,2015,Privately owned apartment,223096
+Gangwon State,2015,privately owned house,460440
+Gangwon State,2015,total number of apartments,297005
+Gangwon State,2015,total number of houses,569899
+Gangwon State,2016,Privately owned apartment,228320
+Gangwon State,2016,privately owned house,476088
+Gangwon State,2016,total number of apartments,300788
+Gangwon State,2016,total number of houses,575967
+Gangwon State,2017,Privately owned apartment,234627
+Gangwon State,2017,privately owned house,489130
+Gangwon State,2017,total number of apartments,307839
+Gangwon State,2017,total number of houses,586383
+Gangwon State,2018,Privately owned apartment,244304
+Gangwon State,2018,privately owned house,501341
+Gangwon State,2018,total number of apartments,322796
+Gangwon State,2018,total number of houses,603644
+Gangwon State,2019,Privately owned apartment,260639
+Gangwon State,2019,privately owned house,518534
+Gangwon State,2019,total number of apartments,346389
+Gangwon State,2019,total number of houses,627376
+Gangwon State,2020,Privately owned apartment,274363
+Gangwon State,2020,privately owned house,534566
+Gangwon State,2020,total number of apartments,360950
+Gangwon State,2020,total number of houses,644023
+Gangwon State,2021,Privately owned apartment,285818
+Gangwon State,2021,privately owned house,547743
+Gangwon State,2021,total number of apartments,370287
+Gangwon State,2021,total number of houses,654719
+Gangwon State,2022,Privately owned apartment,296100
+Gangwon State,2022,privately owned house,558983
+Gangwon State,2022,total number of apartments,379372
+Gangwon State,2022,total number of houses,665631
+Gangwon State,2023,Privately owned apartment,300843
+Gangwon State,2023,privately owned house,567121
+Gangwon State,2023,total number of apartments,387357
+Gangwon State,2023,total number of houses,674829
+Gwangju,2012,Privately owned apartment,281469
+Gwangju,2012,privately owned house,382146
+Gwangju,2012,total number of apartments,348622
+Gwangju,2012,total number of houses,458037
+Gwangju,2013,Privately owned apartment,287622
+Gwangju,2013,privately owned house,390470
+Gwangju,2013,total number of apartments,356907
+Gwangju,2013,total number of houses,467333
+Gwangju,2014,Privately owned apartment,302158
+Gwangju,2014,privately owned house,401789
+Gwangju,2014,total number of apartments,369526
+Gwangju,2014,total number of houses,477400
+Gwangju,2015,Privately owned apartment,314820
+Gwangju,2015,privately owned house,418763
+Gwangju,2015,total number of apartments,376731
+Gwangju,2015,total number of houses,486527
+Gwangju,2016,Privately owned apartment,322869
+Gwangju,2016,privately owned house,426202
+Gwangju,2016,total number of apartments,384750
+Gwangju,2016,total number of houses,494547
+Gwangju,2017,Privately owned apartment,330782
+Gwangju,2017,privately owned house,433969
+Gwangju,2017,total number of apartments,395976
+Gwangju,2017,total number of houses,505471
+Gwangju,2018,Privately owned apartment,340144
+Gwangju,2018,privately owned house,441585
+Gwangju,2018,total number of apartments,406329
+Gwangju,2018,total number of houses,514767
+Gwangju,2019,Privately owned apartment,350515
+Gwangju,2019,privately owned house,449711
+Gwangju,2019,total number of apartments,419567
+Gwangju,2019,total number of houses,526161
+Gwangju,2020,Privately owned apartment,355089
+Gwangju,2020,privately owned house,452867
+Gwangju,2020,total number of apartments,432295
+Gwangju,2020,total number of houses,538275
+Gwangju,2021,Privately owned apartment,364301
+Gwangju,2021,privately owned house,460088
+Gwangju,2021,total number of apartments,438338
+Gwangju,2021,total number of houses,542703
+Gwangju,2022,Privately owned apartment,372071
+Gwangju,2022,privately owned house,467264
+Gwangju,2022,total number of apartments,451265
+Gwangju,2022,total number of houses,555185
+Gwangju,2023,Privately owned apartment,379840
+Gwangju,2023,privately owned house,474956
+Gwangju,2023,total number of apartments,456837
+Gwangju,2023,total number of houses,560550
+Gyeonggi-do,2012,Privately owned apartment,1969528
+Gyeonggi-do,2012,privately owned house,2943112
+Gyeonggi-do,2012,total number of apartments,2323247
+Gyeonggi-do,2012,total number of houses,3401339
+Gyeonggi-do,2013,Privately owned apartment,2018630
+Gyeonggi-do,2013,privately owned house,3051810
+Gyeonggi-do,2013,total number of apartments,2371924
+Gyeonggi-do,2013,total number of houses,3485881
+Gyeonggi-do,2014,Privately owned apartment,2060779
+Gyeonggi-do,2014,privately owned house,3107200
+Gyeonggi-do,2014,total number of apartments,2426560
+Gyeonggi-do,2014,total number of houses,3571076
+Gyeonggi-do,2015,Privately owned apartment,2115908
+Gyeonggi-do,2015,privately owned house,3226048
+Gyeonggi-do,2015,total number of apartments,2502091
+Gyeonggi-do,2015,total number of houses,3693557
+Gyeonggi-do,2016,Privately owned apartment,2164804
+Gyeonggi-do,2016,privately owned house,3321793
+Gyeonggi-do,2016,total number of apartments,2577259
+Gyeonggi-do,2016,total number of houses,3814834
+Gyeonggi-do,2017,Privately owned apartment,2237980
+Gyeonggi-do,2017,privately owned house,3430434
+Gyeonggi-do,2017,total number of apartments,2676037
+Gyeonggi-do,2017,total number of houses,3949829
+Gyeonggi-do,2018,Privately owned apartment,2352161
+Gyeonggi-do,2018,privately owned house,3567956
+Gyeonggi-do,2018,total number of apartments,2860249
+Gyeonggi-do,2018,total number of houses,4169100
+Gyeonggi-do,2019,Privately owned apartment,2492579
+Gyeonggi-do,2019,privately owned house,3720475
+Gyeonggi-do,2019,total number of apartments,3021258
+Gyeonggi-do,2019,total number of houses,4354776
+Gyeonggi-do,2020,Privately owned apartment,2584396
+Gyeonggi-do,2020,privately owned house,3820945
+Gyeonggi-do,2020,total number of apartments,3146667
+Gyeonggi-do,2020,total number of houses,4495115
+Gyeonggi-do,2021,Privately owned apartment,2677838
+Gyeonggi-do,2021,privately owned house,3918186
+Gyeonggi-do,2021,total number of apartments,3254817
+Gyeonggi-do,2021,total number of houses,4608126
+Gyeonggi-do,2022,Privately owned apartment,2741128
+Gyeonggi-do,2022,privately owned house,3987834
+Gyeonggi-do,2022,total number of apartments,3358597
+Gyeonggi-do,2022,total number of houses,4725372
+Gyeonggi-do,2023,Privately owned apartment,2844385
+Gyeonggi-do,2023,privately owned house,4102296
+Gyeonggi-do,2023,total number of apartments,3477378
+Gyeonggi-do,2023,total number of houses,4859873
+Gyeongsangbuk-do,2012,Privately owned apartment,319584
+Gyeongsangbuk-do,2012,privately owned house,768357
+Gyeongsangbuk-do,2012,total number of apartments,409120
+Gyeongsangbuk-do,2012,total number of houses,949692
+Gyeongsangbuk-do,2013,Privately owned apartment,325654
+Gyeongsangbuk-do,2013,privately owned house,794807
+Gyeongsangbuk-do,2013,total number of apartments,418332
+Gyeongsangbuk-do,2013,total number of houses,963566
+Gyeongsangbuk-do,2014,Privately owned apartment,333844
+Gyeongsangbuk-do,2014,privately owned house,786657
+Gyeongsangbuk-do,2014,total number of apartments,427860
+Gyeongsangbuk-do,2014,total number of houses,978667
+Gyeongsangbuk-do,2015,Privately owned apartment,354608
+Gyeongsangbuk-do,2015,privately owned house,833001
+Gyeongsangbuk-do,2015,total number of apartments,449154
+Gyeongsangbuk-do,2015,total number of houses,995385
+Gyeongsangbuk-do,2016,Privately owned apartment,372490
+Gyeongsangbuk-do,2016,privately owned house,855400
+Gyeongsangbuk-do,2016,total number of apartments,461577
+Gyeongsangbuk-do,2016,total number of houses,1009941
+Gyeongsangbuk-do,2017,Privately owned apartment,393187
+Gyeongsangbuk-do,2017,privately owned house,895071
+Gyeongsangbuk-do,2017,total number of apartments,485196
+Gyeongsangbuk-do,2017,total number of houses,1038274
+Gyeongsangbuk-do,2018,Privately owned apartment,417147
+Gyeongsangbuk-do,2018,privately owned house,920239
+Gyeongsangbuk-do,2018,total number of apartments,507230
+Gyeongsangbuk-do,2018,total number of houses,1060505
+Gyeongsangbuk-do,2019,Privately owned apartment,433661
+Gyeongsangbuk-do,2019,privately owned house,936551
+Gyeongsangbuk-do,2019,total number of apartments,529133
+Gyeongsangbuk-do,2019,total number of houses,1081216
+Gyeongsangbuk-do,2020,Privately owned apartment,443829
+Gyeongsangbuk-do,2020,privately owned house,948610
+Gyeongsangbuk-do,2020,total number of apartments,541246
+Gyeongsangbuk-do,2020,total number of houses,1094306
+Gyeongsangbuk-do,2021,Privately owned apartment,459641
+Gyeongsangbuk-do,2021,privately owned house,966387
+Gyeongsangbuk-do,2021,total number of apartments,551145
+Gyeongsangbuk-do,2021,total number of houses,1103666
+Gyeongsangbuk-do,2022,Privately owned apartment,463457
+Gyeongsangbuk-do,2022,privately owned house,968482
+Gyeongsangbuk-do,2022,total number of apartments,555358
+Gyeongsangbuk-do,2022,total number of houses,1108186
+Gyeongsangbuk-do,2023,Privately owned apartment,470333
+Gyeongsangbuk-do,2023,privately owned house,970356
+Gyeongsangbuk-do,2023,total number of apartments,564089
+Gyeongsangbuk-do,2023,total number of houses,1106957
+Gyeongsangnam-do,2012,Privately owned apartment,486201
+Gyeongsangnam-do,2012,privately owned house,910531
+Gyeongsangnam-do,2012,total number of apartments,576119
+Gyeongsangnam-do,2012,total number of houses,1064715
+Gyeongsangnam-do,2013,Privately owned apartment,504988
+Gyeongsangnam-do,2013,privately owned house,947919
+Gyeongsangnam-do,2013,total number of apartments,594703
+Gyeongsangnam-do,2013,total number of houses,1088659
+Gyeongsangnam-do,2014,Privately owned apartment,531563
+Gyeongsangnam-do,2014,privately owned house,965954
+Gyeongsangnam-do,2014,total number of apartments,615781
+Gyeongsangnam-do,2014,total number of houses,1108750
+Gyeongsangnam-do,2015,Privately owned apartment,551293
+Gyeongsangnam-do,2015,privately owned house,990489
+Gyeongsangnam-do,2015,total number of apartments,641589
+Gyeongsangnam-do,2015,total number of houses,1134738
+Gyeongsangnam-do,2016,Privately owned apartment,571774
+Gyeongsangnam-do,2016,privately owned house,1021330
+Gyeongsangnam-do,2016,total number of apartments,654679
+Gyeongsangnam-do,2016,total number of houses,1151057
+Gyeongsangnam-do,2017,Privately owned apartment,603771
+Gyeongsangnam-do,2017,privately owned house,1070083
+Gyeongsangnam-do,2017,total number of apartments,694326
+Gyeongsangnam-do,2017,total number of houses,1193912
+Gyeongsangnam-do,2018,Privately owned apartment,630069
+Gyeongsangnam-do,2018,privately owned house,1097969
+Gyeongsangnam-do,2018,total number of apartments,726589
+Gyeongsangnam-do,2018,total number of houses,1226708
+Gyeongsangnam-do,2019,Privately owned apartment,658101
+Gyeongsangnam-do,2019,privately owned house,1127511
+Gyeongsangnam-do,2019,total number of apartments,767442
+Gyeongsangnam-do,2019,total number of houses,1266739
+Gyeongsangnam-do,2020,Privately owned apartment,678390
+Gyeongsangnam-do,2020,privately owned house,1148042
+Gyeongsangnam-do,2020,total number of apartments,797850
+Gyeongsangnam-do,2020,total number of houses,1296944
+Gyeongsangnam-do,2021,Privately owned apartment,696176
+Gyeongsangnam-do,2021,privately owned house,1166525
+Gyeongsangnam-do,2021,total number of apartments,807613
+Gyeongsangnam-do,2021,total number of houses,1306263
+Gyeongsangnam-do,2022,Privately owned apartment,704726
+Gyeongsangnam-do,2022,privately owned house,1172166
+Gyeongsangnam-do,2022,total number of apartments,814296
+Gyeongsangnam-do,2022,total number of houses,1311971
+Gyeongsangnam-do,2023,Privately owned apartment,710444
+Gyeongsangnam-do,2023,privately owned house,1181232
+Gyeongsangnam-do,2023,total number of apartments,823074
+Gyeongsangnam-do,2023,total number of houses,1321044
+Incheon,2012,Privately owned apartment,453901
+Incheon,2012,privately owned house,785487
+Incheon,2012,total number of apartments,535724
+Incheon,2012,total number of houses,892303
+Incheon,2013,Privately owned apartment,465686
+Incheon,2013,privately owned house,808639
+Incheon,2013,total number of apartments,546726
+Incheon,2013,total number of houses,905209
+Incheon,2014,Privately owned apartment,479585
+Incheon,2014,privately owned house,820432
+Incheon,2014,total number of apartments,561079
+Incheon,2014,total number of houses,920575
+Incheon,2015,Privately owned apartment,498808
+Incheon,2015,privately owned house,846873
+Incheon,2015,total number of apartments,577346
+Incheon,2015,total number of houses,942244
+Incheon,2016,Privately owned apartment,512331
+Incheon,2016,privately owned house,865592
+Incheon,2016,total number of apartments,588563
+Incheon,2016,total number of houses,958072
+Incheon,2017,Privately owned apartment,526729
+Incheon,2017,privately owned house,880133
+Incheon,2017,total number of apartments,597929
+Incheon,2017,total number of houses,969588
+Incheon,2018,Privately owned apartment,544663
+Incheon,2018,privately owned house,895255
+Incheon,2018,total number of apartments,624332
+Incheon,2018,total number of houses,997959
+Incheon,2019,Privately owned apartment,562880
+Incheon,2019,privately owned house,908703
+Incheon,2019,total number of apartments,648403
+Incheon,2019,total number of houses,1019365
+Incheon,2020,Privately owned apartment,576221
+Incheon,2020,privately owned house,919273
+Incheon,2020,total number of apartments,661611
+Incheon,2020,total number of houses,1032774
+Incheon,2021,Privately owned apartment,592148
+Incheon,2021,privately owned house,930943
+Incheon,2021,total number of apartments,683337
+Incheon,2021,total number of houses,1053451
+Incheon,2022,Privately owned apartment,610205
+Incheon,2022,privately owned house,946051
+Incheon,2022,total number of apartments,717820
+Incheon,2022,total number of houses,1087837
+Incheon,2023,Privately owned apartment,635908
+Incheon,2023,privately owned house,972234
+Incheon,2023,total number of apartments,760435
+Incheon,2023,total number of houses,1131300
+Jeju,2012,Privately owned apartment,39551
+Jeju,2012,privately owned house,145314
+Jeju,2012,total number of apartments,51066
+Jeju,2012,total number of houses,171616
+Jeju,2013,Privately owned apartment,42564
+Jeju,2013,privately owned house,149454
+Jeju,2013,total number of apartments,57211
+Jeju,2013,total number of houses,181584
+Jeju,2014,Privately owned apartment,45614
+Jeju,2014,privately owned house,157540
+Jeju,2014,total number of apartments,58908
+Jeju,2014,total number of houses,185915
+Jeju,2015,Privately owned apartment,47804
+Jeju,2015,privately owned house,169625
+Jeju,2015,total number of apartments,62532
+Jeju,2015,total number of houses,195224
+Jeju,2016,Privately owned apartment,50073
+Jeju,2016,privately owned house,180785
+Jeju,2016,total number of apartments,65567
+Jeju,2016,total number of houses,206874
+Jeju,2017,Privately owned apartment,53201
+Jeju,2017,privately owned house,192403
+Jeju,2017,total number of apartments,70112
+Jeju,2017,total number of houses,221140
+Jeju,2018,Privately owned apartment,55791
+Jeju,2018,privately owned house,200437
+Jeju,2018,total number of apartments,74199
+Jeju,2018,total number of houses,233068
+Jeju,2019,Privately owned apartment,57378
+Jeju,2019,privately owned house,206816
+Jeju,2019,total number of apartments,76495
+Jeju,2019,total number of houses,241788
+Jeju,2020,Privately owned apartment,58253
+Jeju,2020,privately owned house,210089
+Jeju,2020,total number of apartments,78136
+Jeju,2020,total number of houses,246451
+Jeju,2021,Privately owned apartment,59988
+Jeju,2021,privately owned house,214697
+Jeju,2021,total number of apartments,79366
+Jeju,2021,total number of houses,249629
+Jeju,2022,Privately owned apartment,61111
+Jeju,2022,privately owned house,218286
+Jeju,2022,total number of apartments,80045
+Jeju,2022,total number of houses,252863
+Jeju,2023,Privately owned apartment,62015
+Jeju,2023,privately owned house,222579
+Jeju,2023,total number of apartments,81519
+Jeju,2023,total number of houses,257878
+Jeollabuk-do,2012,Privately owned apartment,260679
+Jeollabuk-do,2012,privately owned house,515280
+Jeollabuk-do,2012,total number of apartments,335645
+Jeollabuk-do,2012,total number of houses,661515
+Jeollabuk-do,2013,Privately owned apartment,271772
+Jeollabuk-do,2013,privately owned house,540155
+Jeollabuk-do,2013,total number of apartments,342814
+Jeollabuk-do,2013,total number of houses,669758
+Jeollabuk-do,2014,Privately owned apartment,280195
+Jeollabuk-do,2014,privately owned house,543358
+Jeollabuk-do,2014,total number of apartments,353549
+Jeollabuk-do,2014,total number of houses,679594
+Jeollabuk-do,2015,Privately owned apartment,295580
+Jeollabuk-do,2015,privately owned house,556685
+Jeollabuk-do,2015,total number of apartments,364712
+Jeollabuk-do,2015,total number of houses,687103
+Jeollabuk-do,2016,Privately owned apartment,299010
+Jeollabuk-do,2016,privately owned house,563127
+Jeollabuk-do,2016,total number of apartments,370071
+Jeollabuk-do,2016,total number of houses,692563
+Jeollabuk-do,2017,Privately owned apartment,305703
+Jeollabuk-do,2017,privately owned house,587158
+Jeollabuk-do,2017,total number of apartments,374491
+Jeollabuk-do,2017,total number of houses,698264
+Jeollabuk-do,2018,Privately owned apartment,316050
+Jeollabuk-do,2018,privately owned house,598732
+Jeollabuk-do,2018,total number of apartments,389225
+Jeollabuk-do,2018,total number of houses,712850
+Jeollabuk-do,2019,Privately owned apartment,325040
+Jeollabuk-do,2019,privately owned house,608803
+Jeollabuk-do,2019,total number of apartments,401005
+Jeollabuk-do,2019,total number of houses,724524
+Jeollabuk-do,2020,Privately owned apartment,332476
+Jeollabuk-do,2020,privately owned house,617768
+Jeollabuk-do,2020,total number of apartments,416861
+Jeollabuk-do,2020,total number of houses,741221
+Jeollabuk-do,2021,Privately owned apartment,339769
+Jeollabuk-do,2021,privately owned house,625214
+Jeollabuk-do,2021,total number of apartments,424658
+Jeollabuk-do,2021,total number of houses,747880
+Jeollabuk-do,2022,Privately owned apartment,342773
+Jeollabuk-do,2022,privately owned house,622323
+Jeollabuk-do,2022,total number of apartments,432466
+Jeollabuk-do,2022,total number of houses,755382
+Jeollabuk-do,2023,Privately owned apartment,353655
+Jeollabuk-do,2023,privately owned house,635501
+Jeollabuk-do,2023,total number of apartments,443907
+Jeollabuk-do,2023,total number of houses,765051
+Jeollanam-do,2012,Privately owned apartment,175377
+Jeollanam-do,2012,privately owned house,524182
+Jeollanam-do,2012,total number of apartments,264808
+Jeollanam-do,2012,total number of houses,707639
+Jeollanam-do,2013,Privately owned apartment,183368
+Jeollanam-do,2013,privately owned house,548427
+Jeollanam-do,2013,total number of apartments,275952
+Jeollanam-do,2013,total number of houses,721444
+Jeollanam-do,2014,Privately owned apartment,194310
+Jeollanam-do,2014,privately owned house,552096
+Jeollanam-do,2014,total number of apartments,291090
+Jeollanam-do,2014,total number of houses,739093
+Jeollanam-do,2015,Privately owned apartment,204671
+Jeollanam-do,2015,privately owned house,561781
+Jeollanam-do,2015,total number of apartments,306661
+Jeollanam-do,2015,total number of houses,747621
+Jeollanam-do,2016,Privately owned apartment,213147
+Jeollanam-do,2016,privately owned house,577419
+Jeollanam-do,2016,total number of apartments,316137
+Jeollanam-do,2016,total number of houses,755044
+Jeollanam-do,2017,Privately owned apartment,220838
+Jeollanam-do,2017,privately owned house,605836
+Jeollanam-do,2017,total number of apartments,324257
+Jeollanam-do,2017,total number of houses,766231
+Jeollanam-do,2018,Privately owned apartment,231254
+Jeollanam-do,2018,privately owned house,610398
+Jeollanam-do,2018,total number of apartments,335966
+Jeollanam-do,2018,total number of houses,777966
+Jeollanam-do,2019,Privately owned apartment,240123
+Jeollanam-do,2019,privately owned house,629255
+Jeollanam-do,2019,total number of apartments,346990
+Jeollanam-do,2019,total number of houses,787816
+Jeollanam-do,2020,Privately owned apartment,251601
+Jeollanam-do,2020,privately owned house,643457
+Jeollanam-do,2020,total number of apartments,359690
+Jeollanam-do,2020,total number of houses,802043
+Jeollanam-do,2021,Privately owned apartment,263831
+Jeollanam-do,2021,privately owned house,657054
+Jeollanam-do,2021,total number of apartments,369551
+Jeollanam-do,2021,total number of houses,811478
+Jeollanam-do,2022,Privately owned apartment,272079
+Jeollanam-do,2022,privately owned house,660093
+Jeollanam-do,2022,total number of apartments,381917
+Jeollanam-do,2022,total number of houses,824065
+Jeollanam-do,2023,Privately owned apartment,281858
+Jeollanam-do,2023,privately owned house,675160
+Jeollanam-do,2023,total number of apartments,392551
+Jeollanam-do,2023,total number of houses,835004
+Sejong,2012,Privately owned apartment,17056
+Sejong,2012,privately owned house,33464
+Sejong,2012,total number of apartments,20957
+Sejong,2012,total number of houses,39325
+Sejong,2013,Privately owned apartment,17992
+Sejong,2013,privately owned house,34996
+Sejong,2013,total number of apartments,21828
+Sejong,2013,total number of houses,40439
+Sejong,2014,Privately owned apartment,23103
+Sejong,2014,privately owned house,39872
+Sejong,2014,total number of apartments,41780
+Sejong,2014,total number of houses,60557
+Sejong,2015,Privately owned apartment,45023
+Sejong,2015,privately owned house,61863
+Sejong,2015,total number of apartments,62274
+Sejong,2015,total number of houses,81130
+Sejong,2016,Privately owned apartment,54063
+Sejong,2016,privately owned house,71317
+Sejong,2016,total number of apartments,67773
+Sejong,2016,total number of houses,86607
+Sejong,2017,Privately owned apartment,67875
+Sejong,2017,privately owned house,85985
+Sejong,2017,total number of apartments,85256
+Sejong,2017,total number of houses,104448
+Sejong,2018,Privately owned apartment,80662
+Sejong,2018,privately owned house,98966
+Sejong,2018,total number of apartments,99512
+Sejong,2018,total number of houses,118959
+Sejong,2019,Privately owned apartment,85993
+Sejong,2019,privately owned house,104383
+Sejong,2019,total number of apartments,112722
+Sejong,2019,total number of houses,132257
+Sejong,2020,Privately owned apartment,90173
+Sejong,2020,privately owned house,108508
+Sejong,2020,total number of apartments,117312
+Sejong,2020,total number of houses,136887
+Sejong,2021,Privately owned apartment,95026
+Sejong,2021,privately owned house,113323
+Sejong,2021,total number of apartments,124375
+Sejong,2021,total number of houses,143798
+Sejong,2022,Privately owned apartment,107592
+Sejong,2022,privately owned house,125903
+Sejong,2022,total number of apartments,130572
+Sejong,2022,total number of houses,150278
+Sejong,2023,Privately owned apartment,111832
+Sejong,2023,privately owned house,130398
+Sejong,2023,total number of apartments,133671
+Sejong,2023,total number of houses,153545
+Seoul,2012,Privately owned apartment,1304927
+Seoul,2012,privately owned house,2303505
+Seoul,2012,total number of apartments,1543045
+Seoul,2012,total number of houses,2625657
+Seoul,2013,Privately owned apartment,1326272
+Seoul,2013,privately owned house,2354408
+Seoul,2013,total number of apartments,1577800
+Seoul,2013,total number of houses,2686621
+Seoul,2014,Privately owned apartment,1358224
+Seoul,2014,privately owned house,2419051
+Seoul,2014,total number of apartments,1578972
+Seoul,2014,total number of houses,2699568
+Seoul,2015,Privately owned apartment,1378958
+Seoul,2015,privately owned house,2483521
+Seoul,2015,total number of apartments,1636896
+Seoul,2015,total number of houses,2793244
+Seoul,2016,Privately owned apartment,1399373
+Seoul,2016,privately owned house,2535607
+Seoul,2016,total number of apartments,1641383
+Seoul,2016,total number of houses,2830857
+Seoul,2017,Privately owned apartment,1409694
+Seoul,2017,privately owned house,2552576
+Seoul,2017,total number of apartments,1665922
+Seoul,2017,total number of houses,2866845
+Seoul,2018,Privately owned apartment,1421708
+Seoul,2018,privately owned house,2571020
+Seoul,2018,total number of apartments,1679639
+Seoul,2018,total number of houses,2894078
+Seoul,2019,Privately owned apartment,1446390
+Seoul,2019,privately owned house,2603182
+Seoul,2019,total number of apartments,1720691
+Seoul,2019,total number of houses,2953964
+Seoul,2020,Privately owned apartment,1480173
+Seoul,2020,privately owned house,2640316
+Seoul,2020,total number of apartments,1772670
+Seoul,2020,total number of houses,3015371
+Seoul,2021,Privately owned apartment,1521247
+Seoul,2021,privately owned house,2681731
+Seoul,2021,total number of apartments,1818214
+Seoul,2021,total number of houses,3068494
+Seoul,2022,Privately owned apartment,1543302
+Seoul,2022,privately owned house,2706182
+Seoul,2022,total number of apartments,1851242
+Seoul,2022,total number of houses,3111323
+Seoul,2023,Privately owned apartment,1557653
+Seoul,2023,privately owned house,2724412
+Seoul,2023,total number of apartments,1886515
+Seoul,2023,total number of houses,3155331
+Ulsan,2012,Privately owned apartment,196984
+Ulsan,2012,privately owned house,290453
+Ulsan,2012,total number of apartments,223734
+Ulsan,2012,total number of houses,326379
+Ulsan,2013,Privately owned apartment,203167
+Ulsan,2013,privately owned house,300544
+Ulsan,2013,total number of apartments,228648
+Ulsan,2013,total number of houses,332697
+Ulsan,2014,Privately owned apartment,215084
+Ulsan,2014,privately owned house,310602
+Ulsan,2014,total number of apartments,241970
+Ulsan,2014,total number of houses,344461
+Ulsan,2015,Privately owned apartment,226018
+Ulsan,2015,privately owned house,325230
+Ulsan,2015,total number of apartments,253010
+Ulsan,2015,total number of houses,357674
+Ulsan,2016,Privately owned apartment,232180
+Ulsan,2016,privately owned house,332052
+Ulsan,2016,total number of apartments,256003
+Ulsan,2016,total number of houses,361273
+Ulsan,2017,Privately owned apartment,239539
+Ulsan,2017,privately owned house,339953
+Ulsan,2017,total number of apartments,264440
+Ulsan,2017,total number of houses,371300
+Ulsan,2018,Privately owned apartment,249898
+Ulsan,2018,privately owned house,346950
+Ulsan,2018,total number of apartments,273230
+Ulsan,2018,total number of houses,379741
+Ulsan,2019,Privately owned apartment,257660
+Ulsan,2019,privately owned house,357483
+Ulsan,2019,total number of apartments,286234
+Ulsan,2019,total number of houses,391596
+Ulsan,2020,Privately owned apartment,264050
+Ulsan,2020,privately owned house,363568
+Ulsan,2020,total number of apartments,289432
+Ulsan,2020,total number of houses,394634
+Ulsan,2021,Privately owned apartment,265022
+Ulsan,2021,privately owned house,363782
+Ulsan,2021,total number of apartments,291892
+Ulsan,2021,total number of houses,396893
+Ulsan,2022,Privately owned apartment,266794
+Ulsan,2022,privately owned house,364756
+Ulsan,2022,total number of apartments,295539
+Ulsan,2022,total number of houses,400155
+Ulsan,2023,Privately owned apartment,268817
+Ulsan,2023,privately owned house,366706
+Ulsan,2023,total number of apartments,301668
+Ulsan,2023,total number of houses,405885
+Whole country,2012,Privately owned apartment,7449705
+Whole country,2012,privately owned house,12962814
+Whole country,2012,total number of apartments,8977135
+Whole country,2012,total number of houses,15300616
+Whole country,2013,Privately owned apartment,7650631
+Whole country,2013,privately owned house,13430598
+Whole country,2013,total number of apartments,9197989
+Whole country,2013,total number of houses,15624928
+Whole country,2014,Privately owned apartment,7907597
+Whole country,2014,privately owned house,13672355
+Whole country,2014,total number of apartments,9448885
+Whole country,2014,total number of houses,15920906
+Whole country,2015,Privately owned apartment,8191917
+Whole country,2015,privately owned house,14147519
+Whole country,2015,total number of apartments,9806062
+Whole country,2015,total number of houses,16367006
+Whole country,2016,Privately owned apartment,8425911
+Whole country,2016,privately owned house,14521457
+Whole country,2016,total number of apartments,10029644
+Whole country,2016,total number of houses,16692230
+Whole country,2017,Privately owned apartment,8697344
+Whole country,2017,privately owned house,14963975
+Whole country,2017,total number of apartments,10375363
+Whole country,2017,total number of houses,17122573
+Whole country,2018,Privately owned apartment,9031320
+Whole country,2018,privately owned house,15317333
+Whole country,2018,total number of apartments,10826044
+Whole country,2018,total number of houses,17633327
+Whole country,2019,Privately owned apartment,9377878
+Whole country,2019,privately owned house,15688708
+Whole country,2019,total number of apartments,11287048
+Whole country,2019,total number of houses,18126954
+Whole country,2020,Privately owned apartment,9647242
+Whole country,2020,privately owned house,15968279
+Whole country,2020,total number of apartments,11661851
+Whole country,2020,total number of houses,18525844
+Whole country,2021,Privately owned apartment,9924078
+Whole country,2021,privately owned house,16241976
+Whole country,2021,total number of apartments,11948544
+Whole country,2021,total number of houses,18811627
+Whole country,2022,Privately owned apartment,10133930
+Whole country,2022,privately owned house,16431686
+Whole country,2022,total number of apartments,12268973
+Whole country,2022,total number of houses,19155585
+Whole country,2023,Privately owned apartment,10400086
+Whole country,2023,privately owned house,16742252
+Whole country,2023,total number of apartments,12631608
+Whole country,2023,total number of houses,19546299
