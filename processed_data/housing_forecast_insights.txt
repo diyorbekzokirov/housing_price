@@ -1,0 +1,29 @@
+
+HOUSING PRICE FORECAST - MODEL COMPARISON INSIGHTS
+=================================================
+
+🏆 BEST MODEL: Prophet
+📊 PERFORMANCE: -1.6693 R² Score (Test Set)
+
+MODEL RANKINGS:
+🥇 1. Prophet: R² = -1.6693
+🥈 2. Linear Regression: R² = -2.9237
+🥉 3. XGBoost: R² = -3.6370
+
+
+FUTURE FORECAST SUMMARY (Next 5 Years - Prophet):
+• 2026: 100.00
+• 2027: 101.24
+• 2028: 102.49
+• 2029: 103.73
+• 2030: 104.97
+
+TREND ANALYSIS:
+• Average Annual Change: +1.24%
+• Total 5-Year Change: +4.97%
+• Trend Direction: Rising
+
+RECOMMENDATIONS:
+• Use Prophet for future housing price predictions
+• Model explains -166.9% of price variance
+• Forecast reliability: Low
